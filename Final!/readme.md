@@ -29,7 +29,7 @@ For the main page, I'm wanting to add an automatic playing intro video. Because 
 *Typography* I definitely plan on using 'Great Vibes' and 'Libre Baskerville' for one of my pages! I also like the looks of 'Rogue Script' and "Carme!" Ive really enjoyed taking my time to play around with the styles. In previous assignments, I've felt rushed.... funny that I don't feel rushed with finals coming up! I'm hoping to play with the sizes, blocking, and headers to give a seamless, beautiful design for my pages! :) Whenever I want something to stand out, I'll make sure to use {hover} or the like!
 *Color Scheme* So far, I have used light yellow, light pink, and light apricot together. The apricot sounds like it would throw the mix apart, but it actually ties the colors together seamlessly. I'm kind of hoping I can design a different scheme for each page, to try and match the GIF/Image of the harvest moon game that I show. I think it's important to make the image pop, as a good image really captivates the audience :)
 
-**Here are my 3 Wireframes!:**
+
 ![alt text](http://i349.photobucket.com/albums/q369/EllenMKayy/Gallery_zpsooox0bgp.jpg)
 
 ![alt text](http://i349.photobucket.com/albums/q369/EllenMKayy/EllenContactPAge_zpsnw9ydu3e.jpg)
