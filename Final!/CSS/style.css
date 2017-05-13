@@ -10,7 +10,7 @@ font-size: 50px;
 }
 
 
-h4 { font-family: 'Lucia Sans Unicode', cursive;
+h4 { font-family: 'Lucia Sans Unicode', serif;
 color: white;
 background-color: #fdd5b1;
 font-size:20px}
@@ -22,7 +22,7 @@ body
   color: #230b49
   line-height: 1.45;
   text-align: left;
-  font-family: 'Lucia Sans Unicode', cursive;}
+  font-family: 'Lucia Sans Unicode',serif;}
 
 #nav {
   background-color: #ffff99
