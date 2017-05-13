@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    color: #fdd5b1;
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    position: relative;
+    opacity: 0.65;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bgimg-1 {
+    min-height: 100vh;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/316554_zpsquwzxcc7.jpg");
+}
+
+.bgimg-2 {
+    min-height: 700px;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/45304-Harvest_Moon_-_More_Friends_of_Mineral_Town_UTrashman-1464234118_zpsu0bzq6ew.jpg");
+}
+
+.bgimg-3 {
+    min-height: 700px;
+    background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/45304-Harvest_Moon_-_More_Friends_of_Mineral_Town_UTrashman-1464233905_zpsdj3b5o3x.jpg");
+}
+
+.bgimg-4 {
+  min-height: 700px;
+  background-image: url("http://i349.photobucket.com/albums/q369/EllenMKayy/harvest-moon-more-friends-of-mineral-town.2101571_zpsyxsjioth.jpg");
+}
+
+.hero {
+    padding: 50px 80px;
+    color:#fdd5b1;
+    background-color: white;
+    text-align: center;
+    text-align: justify;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    color: #fdd5b1;
+    text-align: center;
+}
+
+.description-container {
+    position: relative;
+}
+
+.description {
+    padding: 50px 80px;
+    color: #ddd;
+    background-color:#fdd5b1;
+    text-align: center;
+    text-align: justify;
+}
+
+.caption span.border {
+    padding: 18px;
+    color: #f7f7f7;
+    background-color: #fdd5b1;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+h3 {
+    color: #111;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    letter-spacing: 5px;
+}
+
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}

@@ -1,12 +1,19 @@
 
-  body
-  h1 {
-    font-family: 'Lucia Sans Unicode', cursive;
-     color: pink;
-  font-size: 50px;
-  }
 
-h2:hover {font-size:18px;}
+
+
+body
+h1 {
+  font-family: 'Georgia', serif;
+   color: pink;
+font-size: 50px;
+}
+
+
+h4 { font-family: 'Lucia Sans Unicode', cursive;
+color: white;
+background-color: #fdd5b1;
+font-size:20px}
 
 body
 {
