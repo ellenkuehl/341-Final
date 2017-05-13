@@ -35,3 +35,11 @@ For the main page, I'm wanting to add an automatic playing intro video. Because 
 ![alt text](http://i349.photobucket.com/albums/q369/EllenMKayy/EllenContactPAge_zpsnw9ydu3e.jpg)
 
 ![alt text](http://i349.photobucket.com/albums/q369/EllenMKayy/BTN_zpsllqdwtuj.jpg)
+
+
+
+# Final UPDATE!
+
+Thank you for a great semester, Justine! I have to be honest, I really was not looking forward to this class. I didn't see the point of it...
+But, because of your teaching methods and your kindness, this class slowly became one of my favorites. I appreciate your willingness to help
+and prompt responses. Have a wonderful summer vacation! :) 

@@ -33,7 +33,7 @@ background-color:  #ffff99;
 background-position: 0 120px;
 color: #230b49
 line-height: 1.45;
-text-align: left;
+text-align: relative;
 font-family: 'Lucia Sans Unicode', serif;}
 
 #nav {
@@ -67,7 +67,7 @@ position: absolute;
 {
 	margin: 0;
 	padding: 2em;
-	float: right;
+	float: relative;
 	width: 1300px;
 	max-height: 420px;
 	height: 100%;
